@@ -1,10 +1,10 @@
 # Portfolio - Caio Souza
 
-Welcome to my portfolio, where I showcase my expertise with data handling and the tools related. Throughout my academic and professional journey, I have gained valuable experience in analyzing data for different kinds of technical reporting. 
+Welcome to my portfolio, where I showcase my expertise with data handling and the tools related. Throughout my academic and professional journey in the last 12 years, I have gained valuable experience in analyzing data for different kinds of technical reporting. 
 
 I have experience with forestry, where I worked with field surveying. It would envolve the data of thousands of trees being gathered, warehoused and then analyzed in each project, in order to obtain information related to a forest dynamics. The projects would relate to forest inventories, investigations into biodiversity, and analyses of the variables affecting the health of natural and commercial forests.
 
-Furthermore, being an UAV specialist allowed to work with spatial data, from its gathering to its analysis on GIS level, for environmental compliance and impact evaluations. With aid of high resolution aerial imagery I was able to create spatial databases, extract useful information and report insights that fitted each client's need. 
+Furthermore, being an UAV specialist allowed to work with spatial data, from its gathering and processing to its analysis on GIS level, mostly for environmental compliance and impact evaluations. With aid of high resolution aerial imagery I was able to create spatial databases, extract useful information and report insights that fitted each client's need. 
 
 You can find below a selection of projects that demonstrate some data pre-processing, exploratory data analysis and data visualization. Please feel free to further browse my portfolio to see the range and depth of my skills. We can discover the data's hidden potential and use it to make wise choices.
 
