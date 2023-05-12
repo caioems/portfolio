@@ -1,25 +1,22 @@
 # Portfolio - Caio Souza
 
-Welcome to my data analysis portfolio, where I showcase my expertise in the field. Throughout my academic and professional journey, I have gained valuable experience in analyzing data for various purposes. Despite the fact that I have worked on different kinds of projects, my main topics of interest have been forestry and environmental licensing. I currently work as a drone operator as well, using drones to collect field data.
+Welcome to my portfolio, where I showcase my expertise with data handling and the tools related. Throughout my academic and professional journey, I have gained valuable experience in analyzing data for different kinds of technical reporting. 
 
-I have worked on numerous data analysis projects in the field of forestry, including assessments of forest inventories, investigations into biodiversity, and analyses of the variables affecting the health of natural forests.
+I have experience with forestry, where I worked with field surveying. It would envolve the data of thousands of trees being gathered, warehoused and then analyzed in each project, in order to obtain information related to a forest dynamics. The projects would relate to forest inventories, investigations into biodiversity, and analyses of the variables affecting the health of natural and commercial forests.
 
-Furthermore, my role as a drone operator has allowed me to gather high-resolution data and perform its analysis on GIS level for environmental assessments and impact evaluations. By utilizing high resolution aerial imagery, I have played a crucial part in monitoring habitat changes and analyzing environmental conditions.
+Furthermore, being an UAV specialist allowed to work with spatial data, from its gathering to its analysis on GIS level, for environmental compliance and impact evaluations. With aid of high resolution aerial imagery I was able to create spatial databases, extract useful information and report insights that fitted each client's need. 
 
-You can find a selection of projects that demonstrate my expertise in data preprocessing, exploratory data analysis, data visualization, and producing useful insights in my portfolio. I am interested about using data analysis approaches to promote positive changes in the forestry and environmental sectors, with a focus on converting raw data into relevant narratives.
-
-Please feel free to further browse my portfolio to see the range and depth of my experience in the field of data analysis. Together, we can discover the data's hidden potential and use it to make wise choices that will lead to a sustainable future.
+You can find below a selection of projects that demonstrate some data pre-processing, exploratory data analysis and data visualization. Please feel free to further browse my portfolio to see the range and depth of my skills. We can discover the data's hidden potential and use it to make wise choices.
 
 
 ## Projects
 
-List of your data analysis projects with brief descriptions and links to their respective repositories:
-Project 1: [Project Name](Link to the project's repository)
+Project 1: [Drone Companion](https://github.com/caioems/DroneCompanion2)
+### Drone Companion is a phyton-based open source ETL tool that consolidates data from UAV flight logs. By providing a folder containing at least one autopilot log file, it will extract data related to its sensors (e.g. camera, barometer and GPS) and system information (e.g. battery monitor, motors output and messages log). This data will be used to check if the flight met the planned conditions, such as maximum height and camera parameters. The processed data is stored in a sqlite database, and it also generates a KML file for viewing the flight path as well as a detailed report for each log.
 
-### Brief description of the project and its purpose.
-Project 2: [Project Name](Link to the project's repository)
+Project 2: [Database analysis of aircrafts registered in the brazilian System of Unmanned Aircraft (SISANT) of the National Civil Aviation Agency of Brazil (ANAC)](https://caioems-analisesisant-app-z8f1vo.streamlit.app/)
 
-### Brief description of the project and its purpose.
+### A web app containing the analysis of a big database of public information related to UAVs that are compliant with brazilian regulation. It presents the whole process of data pre-processing, and performs some exploratory data analysis like most common brands and activities their are being used for.
 Project 3: [Project Name](Link to the project's repository)
 
 ### Brief description of the project and its purpose.
