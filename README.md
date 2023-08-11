@@ -16,7 +16,7 @@ Project 1: [Drone Companion](https://github.com/caioems/DroneCompanion2)
 
 Project 2: [Database analysis of aircrafts registered in the brazilian System of Unmanned Aircraft (SISANT) of the National Civil Aviation Agency of Brazil (ANAC)](https://caioems-analisesisant-app-z8f1vo.streamlit.app/)
 
-### A web app containing the analysis of a big database of public information related to UAVs that are compliant with brazilian regulation. It presents the whole process of data pre-processing, and performs some exploratory data analysis like most common brands and activities their are being used for.
+### A web app containing the analysis of a big database of public information related to all UAVs that are compliant with brazilian regulation. It presents the whole process of data pre-processing, and performs some exploratory data analysis like most common brands and activities their are being used for.
 Project 3: [Project Name](Link to the project's repository)
 
 ### Brief description of the project and its purpose.
