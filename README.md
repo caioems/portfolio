@@ -24,10 +24,12 @@ __A collection of technical articles about remote sensing, data analysis, and pr
 
 ### Skills and Tools
 
-    Python
-    SQL
-    GIS
-
+    Languages & tools:
+        Python, R, SQL, QGIS
+        
+    Other technical skills:
+        Github, Excel & Google Sheets, Power BI, Visual Studio 
+    
 ### Contact
 
 <caioeduardoms@hotmail.com>
