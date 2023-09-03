@@ -10,11 +10,15 @@ Below, you'll find a curated selection of projects showcasing my expertise in da
 
 ## [Drone Companion](https://github.com/caioems/DroneCompanion)
 
+<p align="center"><img src="https://i.imgur.com/bnrDfX2.jpg" width="200"></p>
+
 __Meet Drone Companion, an open-source ETL tool written in Python. It effectively consolidates data from UAV flight logs while collecting critical system and sensor information. This information is then used to assess flight protocols compliance, generating KML files containing flight paths and brief descriptions.__
 
 __In short, it analyzes drone metrics in a GIS context, validating missions and recommending maintenance based on telemetry. It also allows you to store processed data in a local SQLite database.__
 
 ## [ANAC's UAV Database: Charting trends in Brazilian unmanned aviation](https://anac-uav-database.streamlit.app/)
+
+<p align="center"><img src="https://i.imgur.com/xBvdydK.jpg" width="200"></p>
 
 __Discover a web app analyzing Brazil's compliant UAV database, with weekly data updates for real-time insights. Designed for educational purposes, it offers data preprocessing and a brief analysis of the general scenario, like who are the top manufacturers and the most common UAV applications.__
 
@@ -26,7 +30,7 @@ __A collection of technical articles about remote sensing, data analysis, and pr
 
     Languages & tools:
         Python, R, SQL, QGIS
-        
+
     Other technical skills:
         Github, Excel & Google Sheets, Power BI, Visual Studio 
     
