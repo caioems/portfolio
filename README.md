@@ -1,37 +1,33 @@
 # Portfolio - Caio Souza
 
-Welcome to my portfolio, where I showcase my expertise with data handling and the tools related. Throughout my academic and professional journey in the last 12 years, I have gained valuable experience in analyzing data for different kinds of technical reporting. 
+Welcome to my portfolio, where I showcase my expertise with data handling. Throughout my academic and professional journey in the last 12 years, I have gained valuable experience in analyzing data for different kinds of technical reporting.
 
-I have experience with forestry, where I worked with field surveying. It would envolve the data of thousands of trees being gathered, warehoused and then analyzed in each project, in order to obtain information related to a forest dynamics. The projects would relate to forest inventories, investigations into biodiversity, and analyses of the variables affecting the health of natural and commercial forests.
+My background includes experiences in forestry and field surveying. Each project I undertook involved the meticulous collection, storage, and analysis of data from thousands of trees. These efforts aimed to uncover valuable insights into forest dynamics, spanning from comprehensive inventories, to biodiversity studies and assessments of factors that impacted both natural and commercial forests' health.
 
-Furthermore, being an UAV specialist allowed to work with spatial data, from its gathering and processing to its analysis on GIS level, mostly for environmental compliance and impact evaluations. With aid of high resolution aerial imagery I was able to create spatial databases, extract useful information and report insights that fitted each client's need. 
+As a UAV specialist, I work extensively with spatial data, handling every aspect from data collection and processing to GIS-level analysis, primarily for environmental compliance and quality assessments. Leveraging high-resolution aerial imagery, I created spatial databases, carried out geospatial analyses, extracted valuable insights, and tailored reports to meet each client's demands.
 
-You can find below a selection of projects that demonstrate some data pre-processing, exploratory data analysis and data visualization. Please feel free to further browse my portfolio to see the range and depth of my skills. We can discover the data's hidden potential and use it to make wise choices.
+Below, you'll find a curated selection of projects showcasing my expertise in data preprocessing, analysis and visualization. Explore my complete portfolio to check my capabilities. Let's unlock data's full potential for informed decision-making.
 
+## [Drone Companion](https://github.com/caioems/DroneCompanion)
 
-## Projects
+__Meet Drone Companion, an open-source ETL tool written in Python. It effectively consolidates data from UAV flight logs while collecting critical system and sensor information. This information is then used to assess flight protocols compliance, generating KML files containing flight paths and brief descriptions.__
 
-Project 1: [Drone Companion](https://github.com/caioems/DroneCompanion2)
-### Drone Companion is a phyton-based open source ETL tool that consolidates data from UAV flight logs. By providing a folder containing at least one autopilot log file, it will extract data related to its sensors (e.g. camera, barometer and GPS) and system information (e.g. battery monitor, motors output and messages log). This data will be used to check if the flight met the planned conditions, such as maximum height and camera parameters. The processed data is stored in a sqlite database, and it also generates a KML file for viewing the flight path as well as a detailed report for each log.
+__In short, it analyzes drone metrics in a GIS context, validating missions and recommending maintenance based on telemetry. It also allows you to store processed data in a local SQLite database.__
 
-Project 2: [Database analysis of aircrafts registered in the brazilian System of Unmanned Aircraft (SISANT) of the National Civil Aviation Agency of Brazil (ANAC)](https://caioems-analisesisant-app-z8f1vo.streamlit.app/)
+## [ANAC's UAV Database: Charting trends in Brazilian unmanned aviation](https://anac-uav-database.streamlit.app/)
 
-### A web app containing the analysis of a big database of public information related to all UAVs that are compliant with brazilian regulation. It presents the whole process of data pre-processing, and performs some exploratory data analysis like most common brands and activities their are being used for.
-Project 3: [Project Name](Link to the project's repository)
+__Discover a web app analyzing Brazil's compliant UAV database, with weekly data updates for real-time insights. Designed for educational purposes, it offers data preprocessing and a brief analysis of the general scenario, like who are the top manufacturers and the most common UAV applications.__
 
-### Brief description of the project and its purpose.
+## [Medium blog](https://medium.com/@caiosouza_38327)
 
-## Skills and Tools
+__A collection of technical articles about remote sensing, data analysis, and programming.__
 
-List of your skills and tools you have used in your projects.
+### Skills and Tools
 
-    Skill 1
-    Skill 2
-    Tool 1
-    Tool 2
+    Python
+    SQL
+    GIS
 
-# Contact
+### Contact
 
-Provide your contact information, including your email address, website, or social media handles, so that potential employers or collaborators can get in touch with you if they have questions or feedback.
-
-Feel free to customize this template to suit your specific needs, and don't hesitate to reach out if you have any questions or need further assistance. Best of luck with your portfolio!
+<caioeduardoms@hotmail.com>
