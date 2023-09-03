@@ -10,8 +10,9 @@ Below, you'll find a curated selection of projects showcasing my expertise in da
 
 ## [Drone Companion](https://github.com/caioems/DroneCompanion)
 
-    Meet Drone Companion, an open-source ETL tool written in Python. It effectively consolidates data from UAV flight logs while collecting critical system and sensor information. This information is then used to assess flight protocols compliance, generating KML files containing flight paths and brief descriptions.
-    In short, it analyzes drone metrics in a GIS context, validating missions and recommending maintenance based on telemetry. It also allows you to store processed data in a local SQLite database.
+__Meet Drone Companion, an open-source ETL tool written in Python. It effectively consolidates data from UAV flight logs while collecting critical system and sensor information. This information is then used to assess flight protocols compliance, generating KML files containing flight paths and brief descriptions.__
+
+__In short, it analyzes drone metrics in a GIS context, validating missions and recommending maintenance based on telemetry. It also allows you to store processed data in a local SQLite database.__
 
 ## [ANAC's UAV Database: Charting trends in Brazilian unmanned aviation](https://anac-uav-database.streamlit.app/)
 
